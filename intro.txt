@@ -1,0 +1,1 @@
+This game is in golang. This is webpage that have a server created using golang.
